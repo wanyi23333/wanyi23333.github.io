@@ -45,7 +45,7 @@ Work experience
 <table>
     <tr>
         <td  style="width: 150px;">2022/04-Present</td>
-        <td>Japan Society for the Promotion of Science research fellow – PD</td>
+        <td><strong>Japan Society for the Promotion of Science research fellow</strong></td>
     </tr>
     <tr>
         <td></td>
@@ -53,7 +53,7 @@ Work experience
     </tr>
     <tr>
         <td>2019/12</td>
-        <td>Teaching Assistant</td>
+        <td><strong>Teaching Assistant</strong></td>
     </tr>
     <tr>
         <td></td>
@@ -61,7 +61,7 @@ Work experience
     </tr>
     <tr>
         <td>2019/05</td>
-        <td>Teaching Assistant</td>
+        <td><strong>Teaching Assistant</strong></td>
     </tr>
     <tr>
         <td></td>
@@ -69,7 +69,7 @@ Work experience
     </tr>
     <tr>
         <td>2015/07-2015/08</td>
-        <td>Undergraduate Research Intern</td>
+        <td><strong>Undergraduate Research Intern</strong></td>
     </tr>
     <tr>
         <td></td>
@@ -77,7 +77,7 @@ Work experience
     </tr>
     <tr>
         <td>2013/11-2016/03</td>
-        <td>Regional Director of Shenzhen-Hong Kong Division</td>
+        <td><strong>Regional Director of Shenzhen-Hong Kong Division</strong></td>
     </tr>
     <tr>
         <td></td>
