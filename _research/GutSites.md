@@ -1,5 +1,5 @@
 ---
-title: "Stomach and colonic microbiome of Japanese macaques"
+title: "Stomach and colonic microbiome"
 layout: single-portfolio
 excerpt: "<img src='/images/research/StoCol_pic.png' alt=''>"
 collection: research

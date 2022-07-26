@@ -1,5 +1,5 @@
 ---
-title: "Inter-population comparison of the macaque gut microbiome"
+title: "Population level variation"
 layout: single-portfolio
 excerpt: "<img src='/images/research/JMaqPop.png' alt=''>"
 collection: research
