@@ -1,5 +1,5 @@
 ---
-title: "Seasonality"
+title: "Seasonal variation"
 layout: single-portfolio
 excerpt: "<img src='/images/research/Seas.png' alt=''>"
 collection: research
