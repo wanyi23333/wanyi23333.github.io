@@ -3,32 +3,14 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+<div style="text-align: center"> <h1>Research</h1> </div>
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+Primates represent classic dietary generalists in the class Mammalia, consuming a wide range of plant materials including high-quality foods like fruits and low-quality foods like mature leaves. In contrast to high-quality foods that are easily digestible and of high calorie, low-quality foods typically contain much fiber and thus require extra processing effort. Providing insights into the dietary flexibility of the primates, much attention has been devoted to understanding how primates meet nutritional demand with low-quality foods.</p>
 
+The gut microbiome likely plays an active role in facilitating dietary plasticity of mammals including primates. Through fermentation, the gut microbiome transforms fibrous foods into the absorbable nutrient and energy. Aiming to reveal the unique trait that make primates dietary generalists, I have been studying the evolutionary and ecological force shaping the primate gut microbiome by using Japanese macaques as a model. 
 <nbsp>
 
 {% include base_path %}
