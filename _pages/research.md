@@ -3,8 +3,6 @@ layout: archive
 title: " "
 permalink: /research/
 author_profile: true
-header:
-  og_image: "research/ecdf.png"
 ---
 
 <div style="text-align: center"> <h1>Research</h1> </div>
