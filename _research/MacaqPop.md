@@ -18,4 +18,4 @@ Lee, W., Hayakawa, T., Kiyono, M., Yamabata, N., & Hanya, G. (2019). Gut microbi
 
 Lee, W., Hayakawa T., Kiyono, M., Yamabata N., Enari H., Enari H. S., Fujita S., Kawazoe T., Asai T., Oi T., Kondo T., Uno T., Seki K., Shimada M., Tsuji Y., Langgeng A., MacIntosh A., Suzuki K., Yamada K., Onishi K., Ueno M., Kubo K., Hanya G.　Diet-related factors strongly shaped the gut microbiota of Japanese macaques.
 
-
+<img src='/images/research/JMaqPop.png' alt=''>

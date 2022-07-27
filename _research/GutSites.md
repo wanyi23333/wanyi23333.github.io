@@ -13,3 +13,5 @@ For most primates including Japanese macaques, microbial fermentation takes plac
 ## Article
 
 Lee, W., Hayakawa, T., Kurihara, Y., Hanzawa, M., Sawada, A., Kaneko, A., ... & Hanya, G. (2021). Stomach and colonic microbiome of wild Japanese macaques. *American Journal of Primatology*.[Article](https://doi.org/10.1002/ajp.23242){: .btn--research} [Data deposition](https://www.ebi.ac.uk/ena/browser/view/PRJDB9235?show=reads){: .btn--research} 
+
+<img src='/images/research/StoCol_pic.png' alt=''>
