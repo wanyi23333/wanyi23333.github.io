@@ -14,7 +14,7 @@ redirect_from:
 }
 </style>
 
-Hi! I'm Wanyi Lee 李婉儀, currently a Postdoctoral Fellow of Japan Society for the Promotion of Science affliated to the Center for Ecological Reserach, Kyoto University.</p>
+Hi! I'm Wanyi Lee 李婉儀, currently a Postdoctoral Fellow of Japan Society for the Promotion of Science affliated to the Center for Ecological Reserach, Kyoto University.
 
 My research interests center on primate feeding ecology, with a focus on the roles of the gut microbiome. Using an integrative approach involving fieldwork and molecular analysis, I explore the evolutionary and ecological processes shaping the primate gut microbiome. In addition to the theoretical works, I am working to improve wildlife management by evaluating macaques’ reliance on crops through their gut microbiome.
 
