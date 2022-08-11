@@ -1,5 +1,5 @@
 ---
-title: "Seasonal variation<br>"
+title: "Seasonal variation<br/>"
 layout: single-portfolio
 excerpt: "<img src='/images/research/Seas.png' alt=''>"
 collection: research
