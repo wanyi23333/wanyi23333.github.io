@@ -1,8 +1,8 @@
 ---
+title: ' '
 layout: archive
-title: " "
 permalink: /publications/
-author_profile: true
+author_profile: yes
 ---
 
 {% if author.googlescholar %}
@@ -55,3 +55,4 @@ Conferences
   <li>[Invited talk] The 6th Asia Primates Symposium & 5th Asian (Indochinese) Primates Conservation (October 2018). “Gut microbiome shift of Japanese macaques as a result of human encroachment”</li>
   <li>[Poster] The Primates Meeting (January 2018). “Gut microbiome shift of Japanese macaques as a result of human encroachment”</li>
 </ol>  
+
