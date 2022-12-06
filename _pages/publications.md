@@ -16,7 +16,7 @@ author_profile: yes
 Journal article
 ------
 <ol reversed>  
-    <li>Lee, W., Hayakawa T., Kiyono, M., Yamabata N., Enari H., Enari H. S., Fujita S., Kawazoe T., Asai T., Oi T., Kondo T., Uno T., Seki K., Shimada M., Tsuji Y., Langgeng A., MacIntosh A., Suzuki K., Yamada K., Onishi K., Ueno M., Kubo K., Hanya G.　(Submitted). Diet-related factors strongly shaped the gut microbiota of Japanese macaques.</li>
+    <li>Lee, W., Hayakawa T., Kiyono, M., Yamabata N., Enari H., Enari H. S., Fujita S., Kawazoe T., Asai T., Oi T., Kondo T., Uno T., Seki K., Shimada M., Tsuji Y., Langgeng A., MacIntosh A., Suzuki K., Yamada K., Onishi K., Ueno M., Kubo K., Hanya G.　(Under review). Diet-related factors strongly shaped the gut microbiota of Japanese macaques.</li>
     <li>Sawada, A., Hayakawa, T., Kurihara, Y., Lee W., Hanya G. (2022). Seasonal responses and host uniqueness of gut microbiome of Japanese macaques in lowland Yakushima. <i>animal microbiome</i>, 4, 54. DOI: <a href="https://doi.org/10.1186/s42523-022-00205-9">10.1186/s42523-022-00205-9</a>.</li>
     <li>He, T., Lee, W., & Hanya, G. (2021). Effects of diet and age–sex class on the fecal particle size of wild Japanese macaques (<i>Macaca fuscata yakui</i>). American Journal of Primatology, 83(5), e23245. DOI: <a href="https://doi.org/10.1002/ajp.23245">10.1002/ajp.23245</a>. </li>  
     <li>Lee, W., Hayakawa, T., Kurihara, Y., Hanzawa, M., Sawada, A., Kaneko, A., ... & Hanya, G. (2021). Stomach and colonic microbiome of wild Japanese macaques. American Journal of Primatology, 83(5), e23242. DOI: <a href="https://doi.org/10.1002/ajp.23242">10.1002/ajp.23242</a>. </li>  
