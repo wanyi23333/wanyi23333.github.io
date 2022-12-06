@@ -1,11 +1,11 @@
 ---
-permalink: /
 title: "About me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+permalink: /
+excerpt: About me
+author_profile: yes
+redirect_from:
+- /about/
+- /about.html
 ---
 
 <style type="text/css">
@@ -23,5 +23,6 @@ My research interests center on primate feeding ecology, with a focus on the rol
 
 Update
 ======
+2022/12/6   Publication updates
 2022/07/24  Hello World :)
 
